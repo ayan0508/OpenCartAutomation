@@ -40,6 +40,7 @@ Make sure you have the following installed:
 - 🔹 **Maven**
 - 🔹 **Selenium WebDriver**
 - 🔹 **Chrome WebDriver**
+- 🔹 **TestNg**
 
 ### 🔗 Install Dependencies
 Run the following command:
