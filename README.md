@@ -45,4 +45,4 @@ Make sure you have the following installed:
 ### 🔗 Install Dependencies
 Run the following command:
 ```sh
-mvn clean install
+mvn clean test -PRegression
